@@ -19,3 +19,7 @@ func BigBark() string {
 func BigBarks() string {
 	return dog.WhenGrownUP(Barks())
 }
+
+func PrintSometing() string {
+	return "testTESTtest"
+}
